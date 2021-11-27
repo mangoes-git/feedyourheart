@@ -21,7 +21,7 @@
 
         <l-popup>
           <div>
-            <b>{{station['Station Name']}} Station</b>
+            <b>{{station['Station Name']}} Station\</b>
           </div>
         </l-popup>
     </l-marker>
@@ -48,8 +48,8 @@
         places: [],
 
         center: [43.7, -79.39],
-        url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-        attribution: '&copy; <a target="_blank" href="http://osm.org/copyright">OpenStreetMap</a> contributors',
+        url: 'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png',
+        attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
         zoom: 12,
 
         ttcIcon: L.icon({
