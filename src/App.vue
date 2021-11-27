@@ -2,28 +2,10 @@
   <v-app>
     <v-app-bar
       app
-      color="primary"
+      color="pink"
       dark
     >
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
-      </div>
+      <v-toolbar-title>Feed Your Heart</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
@@ -38,19 +20,23 @@
     </v-app-bar>
 
     <v-main>
-      <HelloWorld/>
+      <v-container fluid id="main-container">
+        <v-row id="main-row">
+        <Map/>
+        </v-row>
+      </v-container>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import Map from './components/Map.vue'
 
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
+    Map
   },
 
   data: () => ({
@@ -58,3 +44,19 @@ export default {
   }),
 };
 </script>
+
+<style scoped>
+  #main-container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding:0
+  }
+  #main-row {
+    /* overflow: hidden; */
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding:0;
+  }
+</style>

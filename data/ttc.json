@@ -1,0 +1,452 @@
+[
+    {
+        "Station Name": "Finch", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.41545252", 
+        "Latitudes": "43.78025627"
+    }, 
+    {
+        "Station Name": "North York Centre", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.41305032", 
+        "Latitudes": "43.76877112"
+    }, 
+    {
+        "Station Name": "Sheppard-Yonge", 
+        "Line": "Line 1 (Yonge-University)\nLine 4 (Sheppard)", 
+        "Longitudes": "-79.41193263", 
+        "Latitudes": "43.762058"
+    }, 
+    {
+        "Station Name": "York Mills", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.40649371", 
+        "Latitudes": "43.74487222"
+    }, 
+    {
+        "Station Name": "Lawrence", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.40210406", 
+        "Latitudes": "43.72539226"
+    }, 
+    {
+        "Station Name": "Eglinton", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.39892515", 
+        "Latitudes": "43.70531063"
+    }, 
+    {
+        "Station Name": "Davisville", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.39718782", 
+        "Latitudes": "43.69773352"
+    }, 
+    {
+        "Station Name": "St Clair", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.39305329", 
+        "Latitudes": "43.68751412"
+    }, 
+    {
+        "Station Name": "Summerhill", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.39083242", 
+        "Latitudes": "43.6823153"
+    }, 
+    {
+        "Station Name": "Rosedale", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38885832", 
+        "Latitudes": "43.67696143"
+    }, 
+    {
+        "Station Name": "Bloor-Yonge", 
+        "Line": "Line 1 (Yonge-University)\nLine 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.38594007", 
+        "Latitudes": "43.67104446"
+    }, 
+    {
+        "Station Name": "Wellesley", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38371372", 
+        "Latitudes": "43.66527338"
+    }, 
+    {
+        "Station Name": "College", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38308854", 
+        "Latitudes": "43.66134147"
+    }, 
+    {
+        "Station Name": "Dundas", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.3806009", 
+        "Latitudes": "43.65629284"
+    }, 
+    {
+        "Station Name": "Queen", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.37922776", 
+        "Latitudes": "43.65243963"
+    }, 
+    {
+        "Station Name": "King", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.37789254", 
+        "Latitudes": "43.64916804"
+    }, 
+    {
+        "Station Name": "Union", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38060952", 
+        "Latitudes": "43.64526077"
+    }, 
+    {
+        "Station Name": "St Andrew", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38485128", 
+        "Latitudes": "43.64768604"
+    }, 
+    {
+        "Station Name": "Osgoode", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38687304", 
+        "Latitudes": "43.65065241"
+    }, 
+    {
+        "Station Name": "St Patrick", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.38844318", 
+        "Latitudes": "43.65481532"
+    }, 
+    {
+        "Station Name": "Queen's Park", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.39046787", 
+        "Latitudes": "43.65989023"
+    }, 
+    {
+        "Station Name": "Museum", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.39344175", 
+        "Latitudes": "43.66703618"
+    }, 
+    {
+        "Station Name": "St George", 
+        "Line": "Line 1 (Yonge-University)\nLine 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.39982097", 
+        "Latitudes": "43.66826949"
+    }, 
+    {
+        "Station Name": "Spadina", 
+        "Line": "Line 1 (Yonge-University)\nLine 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.40438819", 
+        "Latitudes": "43.66718951"
+    }, 
+    {
+        "Station Name": "Dupont", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.40714148", 
+        "Latitudes": "43.67487605"
+    }, 
+    {
+        "Station Name": "St Clair West", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.41554395", 
+        "Latitudes": "43.68413565"
+    }, 
+    {
+        "Station Name": "Eglinton West", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.4360649", 
+        "Latitudes": "43.69914799"
+    }, 
+    {
+        "Station Name": "Glencairn", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.44073603", 
+        "Latitudes": "43.70878435"
+    }, 
+    {
+        "Station Name": "Lawrence West", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.44417664", 
+        "Latitudes": "43.71596886"
+    }, 
+    {
+        "Station Name": "Yorkdale", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.44749264", 
+        "Latitudes": "43.72459369"
+    }, 
+    {
+        "Station Name": "Wilson", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.44999149", 
+        "Latitudes": "43.7344991"
+    }, 
+    {
+        "Station Name": "Sheppard West", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.4619212", 
+        "Latitudes": "43.74970029"
+    }, 
+    {
+        "Station Name": "Downsview Park", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.47881604", 
+        "Latitudes": "43.75357894"
+    }, 
+    {
+        "Station Name": "Finch West", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.49091968", 
+        "Latitudes": "43.76521555"
+    }, 
+    {
+        "Station Name": "York University", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.49983324", 
+        "Latitudes": "43.77391576"
+    }, 
+    {
+        "Station Name": "Pioneer Village", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.5103323", 
+        "Latitudes": "43.77716922"
+    }, 
+    {
+        "Station Name": "Highway 407", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.52383331", 
+        "Latitudes": "43.78338989"
+    }, 
+    {
+        "Station Name": "Vaughan Metropolitan Centre", 
+        "Line": "Line 1 (Yonge-University)", 
+        "Longitudes": "-79.52750881", 
+        "Latitudes": "43.79425965"
+    }, 
+    {
+        "Station Name": "Kipling", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.53537703", 
+        "Latitudes": "43.6376977"
+    }, 
+    {
+        "Station Name": "Islington", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.52393229", 
+        "Latitudes": "43.64529028"
+    }, 
+    {
+        "Station Name": "Royal York", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.51130901", 
+        "Latitudes": "43.64822856"
+    }, 
+    {
+        "Station Name": "Old Mill", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.49497565", 
+        "Latitudes": "43.65010053"
+    }, 
+    {
+        "Station Name": "Jane", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.48383105", 
+        "Latitudes": "43.64995486"
+    }, 
+    {
+        "Station Name": "Runnymede", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.47589516", 
+        "Latitudes": "43.65172503"
+    }, 
+    {
+        "Station Name": "High Park", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.46690039", 
+        "Latitudes": "43.65384781"
+    }, 
+    {
+        "Station Name": "Keele", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.4596993", 
+        "Latitudes": "43.6555596"
+    }, 
+    {
+        "Station Name": "Dundas West", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.45277739", 
+        "Latitudes": "43.65698549"
+    }, 
+    {
+        "Station Name": "Lansdowne", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.44280639", 
+        "Latitudes": "43.65909277"
+    }, 
+    {
+        "Station Name": "Dufferin", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.43567298", 
+        "Latitudes": "43.66013535"
+    }, 
+    {
+        "Station Name": "Ossington", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.42632163", 
+        "Latitudes": "43.66237678"
+    }, 
+    {
+        "Station Name": "Christie", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.41836049", 
+        "Latitudes": "43.664119"
+    }, 
+    {
+        "Station Name": "Bathurst", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.41121633", 
+        "Latitudes": "43.66600907"
+    }, 
+    {
+        "Station Name": "Bay", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.39001389", 
+        "Latitudes": "43.67034373"
+    }, 
+    {
+        "Station Name": "Sherbourne", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.37642462", 
+        "Latitudes": "43.67216149"
+    }, 
+    {
+        "Station Name": "Castle Frank", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.36859613", 
+        "Latitudes": "43.67371895"
+    }, 
+    {
+        "Station Name": "Broadview", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.35842157", 
+        "Latitudes": "43.6768305"
+    }, 
+    {
+        "Station Name": "Chester", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.3524893", 
+        "Latitudes": "43.67833594"
+    }, 
+    {
+        "Station Name": "Pape", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.34503513", 
+        "Latitudes": "43.67989096"
+    }, 
+    {
+        "Station Name": "Donlands", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.33769086", 
+        "Latitudes": "43.68097262"
+    }, 
+    {
+        "Station Name": "Greenwood", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.33016437", 
+        "Latitudes": "43.68259691"
+    }, 
+    {
+        "Station Name": "Coxwell", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.32307485", 
+        "Latitudes": "43.6842329"
+    }, 
+    {
+        "Station Name": "Woodbine", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.31269254", 
+        "Latitudes": "43.6863974"
+    }, 
+    {
+        "Station Name": "Main Street", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.30197789", 
+        "Latitudes": "43.6889628"
+    }, 
+    {
+        "Station Name": "Victoria Park", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.28914129", 
+        "Latitudes": "43.69466396"
+    }, 
+    {
+        "Station Name": "Warden", 
+        "Line": "Line 2 (Bloor-Danforth)", 
+        "Longitudes": "-79.27910138", 
+        "Latitudes": "43.71141509"
+    }, 
+    {
+        "Station Name": "Kennedy", 
+        "Line": "Line 2 (Bloor-Danforth)\nLine 3 (Scarborough)", 
+        "Longitudes": "-79.26417778", 
+        "Latitudes": "43.73234186"
+    }, 
+    {
+        "Station Name": "McCowan", 
+        "Line": "Line 3 (Scarborough)", 
+        "Longitudes": "-79.25181721", 
+        "Latitudes": "43.77493271"
+    }, 
+    {
+        "Station Name": "Scarborough Centre", 
+        "Line": "Line 3 (Scarborough)", 
+        "Longitudes": "-79.25795886", 
+        "Latitudes": "43.77441114"
+    }, 
+    {
+        "Station Name": "Midland", 
+        "Line": "Line 3 (Scarborough)", 
+        "Longitudes": "-79.272172", 
+        "Latitudes": "43.770409"
+    }, 
+    {
+        "Station Name": "Ellesmere", 
+        "Line": "Line 3 (Scarborough)", 
+        "Longitudes": "-79.27631609", 
+        "Latitudes": "43.76693688"
+    }, 
+    {
+        "Station Name": "Lawrence East", 
+        "Line": "Line 3 (Scarborough)", 
+        "Longitudes": "-79.27031729", 
+        "Latitudes": "43.75073743"
+    }, 
+    {
+        "Station Name": "Bayview", 
+        "Line": "Line 4 (Sheppard)", 
+        "Longitudes": "-79.38631207", 
+        "Latitudes": "43.76693937"
+    }, 
+    {
+        "Station Name": "Bessarion", 
+        "Line": "Line 4 (Sheppard)", 
+        "Longitudes": "-79.37595843", 
+        "Latitudes": "43.76915773"
+    }, 
+    {
+        "Station Name": "Leslie", 
+        "Line": "Line 4 (Sheppard)", 
+        "Longitudes": "-79.36778921", 
+        "Latitudes": "43.77084938"
+    }, 
+    {
+        "Station Name": "Don Mills", 
+        "Line": "Line 4 (Sheppard)", 
+        "Longitudes": "-79.3453612", 
+        "Latitudes": "43.77571167"
+    }
+]

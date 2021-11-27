@@ -1,0 +1,81 @@
+Station Name,Line,Latitudes,Longitudes
+Finch,Line 1 (Yonge-University),43.78025627,-79.41545252
+North York Centre,Line 1 (Yonge-University),43.76877112,-79.41305032
+Sheppard-Yonge,"Line 1 (Yonge-University)
+Line 4 (Sheppard)",43.762058,-79.41193263
+York Mills,Line 1 (Yonge-University),43.74487222,-79.40649371
+Lawrence,Line 1 (Yonge-University),43.72539226,-79.40210406
+Eglinton,Line 1 (Yonge-University),43.70531063,-79.39892515
+Davisville,Line 1 (Yonge-University),43.69773352,-79.39718782
+St Clair,Line 1 (Yonge-University),43.68751412,-79.39305329
+Summerhill,Line 1 (Yonge-University),43.6823153,-79.39083242
+Rosedale,Line 1 (Yonge-University),43.67696143,-79.38885832
+Bloor-Yonge,"Line 1 (Yonge-University)
+Line 2 (Bloor-Danforth)",43.67104446,-79.38594007
+Wellesley,Line 1 (Yonge-University),43.66527338,-79.38371372
+College,Line 1 (Yonge-University),43.66134147,-79.38308854
+Dundas,Line 1 (Yonge-University),43.65629284,-79.3806009
+Queen,Line 1 (Yonge-University),43.65243963,-79.37922776
+King,Line 1 (Yonge-University),43.64916804,-79.37789254
+Union,Line 1 (Yonge-University),43.64526077,-79.38060952
+St Andrew,Line 1 (Yonge-University),43.64768604,-79.38485128
+Osgoode,Line 1 (Yonge-University),43.65065241,-79.38687304
+St Patrick,Line 1 (Yonge-University),43.65481532,-79.38844318
+Queen's Park,Line 1 (Yonge-University),43.65989023,-79.39046787
+Museum,Line 1 (Yonge-University),43.66703618,-79.39344175
+St George,"Line 1 (Yonge-University)
+Line 2 (Bloor-Danforth)",43.66826949,-79.39982097
+Spadina,"Line 1 (Yonge-University)
+Line 2 (Bloor-Danforth)",43.66718951,-79.40438819
+Dupont,Line 1 (Yonge-University),43.67487605,-79.40714148
+St Clair West,Line 1 (Yonge-University),43.68413565,-79.41554395
+Eglinton West,Line 1 (Yonge-University),43.69914799,-79.4360649
+Glencairn,Line 1 (Yonge-University),43.70878435,-79.44073603
+Lawrence West,Line 1 (Yonge-University),43.71596886,-79.44417664
+Yorkdale,Line 1 (Yonge-University),43.72459369,-79.44749264
+Wilson,Line 1 (Yonge-University),43.7344991,-79.44999149
+Sheppard West,Line 1 (Yonge-University),43.74970029,-79.4619212
+Downsview Park,Line 1 (Yonge-University),43.75357894,-79.47881604
+Finch West,Line 1 (Yonge-University),43.76521555,-79.49091968
+York University,Line 1 (Yonge-University),43.77391576,-79.49983324
+Pioneer Village,Line 1 (Yonge-University),43.77716922,-79.5103323
+Highway 407,Line 1 (Yonge-University),43.78338989,-79.52383331
+Vaughan Metropolitan Centre,Line 1 (Yonge-University),43.79425965,-79.52750881
+Kipling,Line 2 (Bloor-Danforth),43.6376977,-79.53537703
+Islington,Line 2 (Bloor-Danforth),43.64529028,-79.52393229
+Royal York,Line 2 (Bloor-Danforth),43.64822856,-79.51130901
+Old Mill,Line 2 (Bloor-Danforth),43.65010053,-79.49497565
+Jane,Line 2 (Bloor-Danforth),43.64995486,-79.48383105
+Runnymede,Line 2 (Bloor-Danforth),43.65172503,-79.47589516
+High Park,Line 2 (Bloor-Danforth),43.65384781,-79.46690039
+Keele,Line 2 (Bloor-Danforth),43.6555596,-79.4596993
+Dundas West,Line 2 (Bloor-Danforth),43.65698549,-79.45277739
+Lansdowne,Line 2 (Bloor-Danforth),43.65909277,-79.44280639
+Dufferin,Line 2 (Bloor-Danforth),43.66013535,-79.43567298
+Ossington,Line 2 (Bloor-Danforth),43.66237678,-79.42632163
+Christie,Line 2 (Bloor-Danforth),43.664119,-79.41836049
+Bathurst,Line 2 (Bloor-Danforth),43.66600907,-79.41121633
+Bay,Line 2 (Bloor-Danforth),43.67034373,-79.39001389
+Sherbourne,Line 2 (Bloor-Danforth),43.67216149,-79.37642462
+Castle Frank,Line 2 (Bloor-Danforth),43.67371895,-79.36859613
+Broadview,Line 2 (Bloor-Danforth),43.6768305,-79.35842157
+Chester,Line 2 (Bloor-Danforth),43.67833594,-79.3524893
+Pape,Line 2 (Bloor-Danforth),43.67989096,-79.34503513
+Donlands,Line 2 (Bloor-Danforth),43.68097262,-79.33769086
+Greenwood,Line 2 (Bloor-Danforth),43.68259691,-79.33016437
+Coxwell,Line 2 (Bloor-Danforth),43.6842329,-79.32307485
+Woodbine,Line 2 (Bloor-Danforth),43.6863974,-79.31269254
+Main Street,Line 2 (Bloor-Danforth),43.6889628,-79.30197789
+Victoria Park,Line 2 (Bloor-Danforth),43.69466396,-79.28914129
+Warden,Line 2 (Bloor-Danforth),43.71141509,-79.27910138
+Kennedy,"Line 2 (Bloor-Danforth)
+Line 3 (Scarborough)",43.73234186,-79.26417778
+McCowan,Line 3 (Scarborough),43.77493271,-79.25181721
+Scarborough Centre,Line 3 (Scarborough),43.77441114,-79.25795886
+Midland,Line 3 (Scarborough),43.770409,-79.272172
+Ellesmere,Line 3 (Scarborough),43.76693688,-79.27631609
+Lawrence East,Line 3 (Scarborough),43.75073743,-79.27031729
+Bayview,Line 4 (Sheppard),43.76693937,-79.38631207
+Bessarion,Line 4 (Sheppard),43.76915773,-79.37595843
+Leslie,Line 4 (Sheppard),43.77084938,-79.36778921
+Don Mills,Line 4 (Sheppard),43.77571167,-79.3453612
