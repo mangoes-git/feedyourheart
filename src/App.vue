@@ -5,6 +5,7 @@
       color="#001F3F"
       dark
     >
+      <img class="mr-3" :src="require('./assets/feedyourheart_logo_bright.png')" height="40"/>
       <v-toolbar-title>Feed Your Heart</v-toolbar-title>
 
       <v-spacer></v-spacer>
@@ -23,10 +24,10 @@
       <v-dialog
         id="about-dialog"
         v-model="showAbout"
-        >
-          <About
-            v-on:close-dialog="showAbout = false"
-            />
+      >
+        <About
+          v-on:close-dialog="showAbout = false"
+        />
       </v-dialog>
       </div>
       <v-container fluid id="main-container">
