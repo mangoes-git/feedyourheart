@@ -1,5 +1,5 @@
 <template>
-  <l-map style="height: 100%" :zoom="zoom" :center="center">
+  <l-map id="l-map" :zoom="zoom" :center="center">
     <l-control-layers ref="controls"></l-control-layers>
     <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
 
@@ -147,9 +147,14 @@
 </script>
 
 <style>
-#map-container {
- width: 100%;
- height: 100%;
- overflow: hidden;
-}
+  #map-container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  }
+
+  #l-map {
+    z-index: 0;
+    position: relative;
+  }
 </style>

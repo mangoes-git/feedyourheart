@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar
       app
-      color="pink"
+      color="#001F3F"
       dark
     >
       <v-toolbar-title>Feed Your Heart</v-toolbar-title>
@@ -10,16 +10,25 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
+        @click="showAbout = true"
         text
       >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>mdi-open-in-new</v-icon>
+        <span class="mr-2">About</span>
+        <v-icon>mdi-information</v-icon>
       </v-btn>
     </v-app-bar>
-
+    
     <v-main>
+      <div class="text-center" id="about-container">
+      <v-dialog
+        id="about-dialog"
+        v-model="showAbout"
+        >
+          <About
+            v-on:close-dialog="showAbout = false"
+            />
+      </v-dialog>
+      </div>
       <v-container fluid id="main-container">
         <v-row id="main-row">
         <Map/>
@@ -30,28 +39,41 @@
 </template>
 
 <script>
-import Map from './components/Map.vue'
+import Map from './components/Map.vue';
+import About from './components/About.vue';
 
 export default {
   name: 'App',
 
   components: {
-    Map
+    Map,
+    About,
   },
 
   data: () => ({
-    //
+    showAbout: false,
   }),
 };
 </script>
 
 <style scoped>
+  #about-container {
+    width: 600px;
+    max-width: 80vw;
+  }
+
+  #about-dialog {
+    width: 600;
+    /* max-width: 80vw; */
+  }
+
   #main-container {
     width: 100%;
     height: 100%;
     margin: 0;
     padding:0
   }
+
   #main-row {
     /* overflow: hidden; */
     width: 100%;
