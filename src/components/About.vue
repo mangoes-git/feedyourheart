@@ -52,7 +52,9 @@
             <v-img
               :src="logo"
               contain
+              class="mx-auto"
               width="66%"
+              max-height="200"
             >
             </v-img>
           </v-col>
@@ -84,6 +86,7 @@ export default {
         require('../assets/aisb_logo.png'),
         require('../assets/rise_logo.png'),
         require('../assets/canada_service_corps_logo.webp'),
+        require('../assets/rbc_logo.png'),
         // require('../assets/feedyourheart_logo_dark.png'),
       ]
     };
