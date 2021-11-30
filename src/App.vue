@@ -6,7 +6,7 @@
       dark
     >
       <img class="mr-3" :src="require('./assets/feedyourheart_logo_bright.png')" height="40"/>
-      <v-toolbar-title>Feed Your Heart</v-toolbar-title>
+      <v-toolbar-title id="title">Feed Your Heart</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
@@ -58,6 +58,22 @@ export default {
 </script>
 
 <style scoped>
+  @font-face {
+    font-family: "AsapSemibold";
+    src: local("AsapSemibold"),
+    url(./assets/fonts/Asap-SemiBold.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: "AsapCondensed";
+    src: local("AsapCondensed"),
+    url(./assets/fonts/AsapCondensed-Regular.ttf) format("truetype");
+  }
+
+  #title {
+    font-family: "AsapSemibold";
+  }
+
   #about-container {
     width: 600px;
     max-width: 80vw;

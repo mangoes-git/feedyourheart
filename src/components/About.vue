@@ -3,7 +3,7 @@
     id="about-card"
     color="#FFE8D5">
     <v-card-title>
-      <span class="text-h3">About </span>
+      <span class="text-h3">About</span>
       <v-img
         :src="fyhLogo"
         contain
@@ -43,22 +43,27 @@
       </p>
 
       <div id="logos">
-        <v-row class="justify-center">
-          <v-col
-            v-for="(logo, i) in logos"
-            :key="i"
-            class="justify-center"
-          >
-            <v-img
-              :src="logo"
-              contain
-              class="mx-auto"
-              width="66%"
-              max-height="200"
+        <v-container>
+          <v-row class="justify-center">
+            <v-col
+              v-for="(logo, i) in logos"
+              :key="i"
+              class="justify-center"
             >
-            </v-img>
-          </v-col>
-        </v-row>
+              <v-img
+                :src="logo"
+                contain
+                sm="3"
+                md="3"
+                lg="3"
+                class="mx-auto"
+                width="66%"
+                max-height="150"
+              >
+              </v-img>
+            </v-col>
+          </v-row>
+        </v-container>
       </div>
     </v-card-text>
 
@@ -102,6 +107,7 @@ export default {
 
 <style>
   #about-card {
+    font-family: "AsapCondensed";
     width: 600px;
   }
 </style>

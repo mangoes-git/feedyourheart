@@ -1,27 +1,36 @@
 Name,Address,Latitudes,Longitudes,Opening hours,Price Range,Cuisine,University,Closest TTC Stops,Phone Number,Region
-Not Just Greens,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,M-F 11:00am-5:00pm,,"HEALTH, SALADS, PITA",University Of Toronto,Queen's Park Station,,Toronto and East York
-Ramen Ya! | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,M-F 11:00am-5:00pm,,FRESH RAMEN,University Of Toronto,Queen's Park Station,,Toronto and East York
-Ramen Ya!,"Sidney Smith Hall, 100 St. George St lower level, Toronto, ON M5S 3G3",43.6621341,-79.39838051,Mon-Thur: 11-6 Fri: 11 - 5,,,University Of Toronto,Spadina Station,,Toronto and East York
-Pasta Pappardelle | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,M - F 11am - 6 pm,,AUTHENTIC ITALIAN PASTA,University Of Toronto,St. George Station,,Toronto and East York
-So Sushi,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,M - F 11am - 5 pm,,SUSHI,University Of Toronto,Queen's Park Station,,Toronto and East York
-Stone Oven Pizzeria | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,M-F 11:00am-5:00pm,,"PIZZA, CALZONES",University Of Toronto,Queen's Park Station,,Toronto and East York
-Stone Oven Pizzeria | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,M-F 11:00am-6:00pm,,"PIZZA, CALZONES",University Of Toronto,St. George Station,,Toronto and East York
-Tortillas | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,M - F 11am - 8pm Sat-Sun 11am - 5pm,,"BURRITOS, BURRITO BOWLS, TACO SALADS",University Of Toronto,St. George Station,,Toronto and East York
-Za’atar | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,M-F 11:00am-5:00pm,,Middle Eastern,University Of Toronto,Queen's Park Station,,Toronto and East York
-Grab ‘N’ Go | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,M-F 11:00am-5:00pm,,"COFFEE, TEA, FRUIT, SNACKS",University Of Toronto,Queen's Park Station,,Toronto and East York
-Grab ‘N’ Go | Sid Smith,"100 St. George St. Toronto, ON M5S 2E5",43.66286183,-79.39823927,M-F 11:00am-5:00pm,,"COFFEE, TEA, FRUIT, SNACKS",University Of Toronto,Spadina Station,,Toronto and East York
-Grab ‘N’ Go | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,Mon - Thur 8:00am - 6:00pm Fri 8am - 5:00pm,,"COFFEE, TEA, FRUIT, SNACKS",University Of Toronto,St. George Station,,Toronto and East York
-Gourmet Burger House | Sid Smith,"100 St. George St. Toronto, ON M5S 2E5",43.66286183,-79.39823927,Mon- Fri 11:00 am - 5:00 pm,,"BURGERS, VEGGIE BURGERS",University Of Toronto,Spadina Station,,Toronto and East York
-Central Smoke Barbecue,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,Mon- Fri 11:00 am - 6:00 pm,,"BARBECUE, SANDWICHES",University Of Toronto,St. George Station,,Toronto and East York
-Bakery @ Stong,"165 Campus Walk, North York, ON M3J 1P3",43.77280537,-79.50819333,Mon - Sun 11:00am - 9:00pm,,"Fresh baked cookies, pastries and more",York University ,York University Station,,North York 
-Bakery @ Winters,"001 Winters College McLaughlin Rd, North York, ON M3J 1P3",43.77628248,-79.50222595,Mon - Fri 8:00am - 10:00pm Sat - Sun 9:00am - 9:00pm,,Fresh baked goods,York University ,York University Station,,North York 
+Not Just Greens,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,Mon-Fri 11am-5pm,,"HEALTH, SALADS, PITA",University Of Toronto,Queen's Park Station,,Toronto and East York
+Ramen Ya! | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,Mon-Fri 11am-5pm,,FRESH RAMEN,University Of Toronto,Queen's Park Station,,Toronto and East York
+Ramen Ya!,"Sidney Smith Hall, 100 St. George St lower level, Toronto, ON M5S 3G3",43.6621341,-79.39838051,"Mon-Thur: 11am-6pm 
+Fri 11am - 5pm",,FRESH RAMEN,University Of Toronto,Spadina Station,,Toronto and East York
+Pasta Pappardelle | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,Mon - Fri 11am - 6 pm,,AUTHENTIC ITALIAN PASTA,University Of Toronto,St. George Station,,Toronto and East York
+So Sushi,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,Mon- Fri 11am - 5 pm,,SUSHI,University Of Toronto,Queen's Park Station,,Toronto and East York
+Stone Oven Pizzeria | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,Mon-Fri 11am-5pm,,"PIZZA, CALZONES",University Of Toronto,Queen's Park Station,,Toronto and East York
+Stone Oven Pizzeria | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,Mon-Fri 11am-6pm,,"PIZZA, CALZONES",University Of Toronto,St. George Station,,Toronto and East York
+Tortillas | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,"Mon - Fri 11am - 8pm 
+Sat-Sun 11am - 5pm",,"BURRITOS, BURRITO BOWLS, TACO SALADS",University Of Toronto,St. George Station,,Toronto and East York
+Za’atar | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,Mon-Fri 11am-5pm,,Middle Eastern,University Of Toronto,Queen's Park Station,,Toronto and East York
+Grab ‘N’ Go | MSB,"1 King’s College Circle, Toronto, ON M5S 1A8",43.66088773,-79.39372385,Mon-Fri 11am-5pm,,"COFFEE, TEA, FRUIT, SNACKS",University Of Toronto,Queen's Park Station,,Toronto and East York
+Grab ‘N’ Go | Sid Smith,"100 St. George St. Toronto, ON M5S 2E5",43.66286183,-79.39823927,Mon-Fri 11am-5pm,,"COFFEE, TEA, FRUIT, SNACKS",University Of Toronto,Spadina Station,,Toronto and East York
+Grab ‘N’ Go | Robarts,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,"Mon - Thur 8am - 6pm 
+Fri 8am - 5pm",,"COFFEE, TEA, FRUIT, SNACKS",University Of Toronto,St. George Station,,Toronto and East York
+Gourmet Burger House | Sid Smith,"100 St. George St. Toronto, ON M5S 2E5",43.66286183,-79.39823927,Mon- Fri 11am - 5pm,,"BURGERS, VEGGIE BURGERS",University Of Toronto,Spadina Station,,Toronto and East York
+Central Smoke Barbecue,"130 St. George St, Toronto, ON M5S 3H1",43.66441974,-79.39933862,Mon- Fri 11am - 6pm,,"BARBECUE, SANDWICHES",University Of Toronto,St. George Station,,Toronto and East York
+Bakery @ Stong,"165 Campus Walk, North York, ON M3J 1P3",43.77280537,-79.50819333,Mon - Sun 11am - 9pm,,"Fresh baked cookies, pastries and more",York University ,York University Station,,North York 
+Bakery @ Winters,"001 Winters College McLaughlin Rd, North York, ON M3J 1P3",43.77628248,-79.50222595,Mon - Fri 8am - 10pm Sat - Sun 9am - 9pm,,Fresh baked goods,York University ,York University Station,,North York 
 Theo's Coffee,"155 Campus Walk, North York, ON M3J 1P3",43.77296663,-79.50774398,24/7,,Specialty Coffee Vending Machine,York University ,Pioneer Village Station,,North York 
-The Great Canadian Bagel,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,M-F 9:30 - 4:00pm Sat - Sun 10:00am - 2:00pm,,"fresh bagels, Columbian coffees, soups, salads, sandwiches",York University ,York University Station,416-736-5555,North York 
-Sushi Shop,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,M - F 10:00am - 9:00pm Sat - Sun 11:00am - 7:00pm,,Japanese specialties,York University ,York University Station,,North York 
+The Great Canadian Bagel,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,"Mon-Fri 9:30am - 4pm 
+Sat - Sun 10am - 2pm",,"fresh bagels, Columbian coffees, soups, salads, sandwiches",York University ,York University Station,416-736-5555,North York 
+Sushi Shop,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,"Mon - Fri 10am - 9pm 
+Sat - Sun 11am - 7pm",,Japanese specialties,York University ,York University Station,,North York 
 Salad Robot,"2275 Bayview Ave, Toronto, ON M4N 3R4",43.72853484,-79.37452783,24/7,,Customizable salad vending machine,York University ,Lawrence Station,,North York 
-Sakura Japanese Foods,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,M- S 10:00am - 10:00pm,,"Teriyaki, sushi, katsu and a wide variety of vegetarian options",York University ,York University Station,,North York 
-Qoola Frozen Yogurt Bar,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,M - F 9:00am - 8:00pm Sat - Sun - 10:30am - 7:00pm,,"gourmet sandwiches, salads, protein bowels, power smoothies, fresh fruit, daily soup",York University ,York University Station,416-661-6652,North York 
-Pita Land,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,M-S 7:30am - 12:00am,,Middle-Eastern favourites,York University ,York University Station,647-409-9509 or 416-859-5281,North York 
-Healthy Kitchen - Glendon,"2275 Bayview Ave, Toronto, ON M4N 3R4",43.72853484,-79.37452783,"Mon - Sat 11:00am - 8:00pm, Sun 11:00am - 12:00am",,A selection of rotisserie chicken combinations,York University ,Lawrence Station,,North York 
-Manpuku,"105 McCaul St, Toronto, ON M5T 2X4",43.65369491,-79.39098624,M - F 11:30 - 7:30 Sat 12:00pm - 7:30,,Japanese eatery with vegetarian options,OCAD University,University Station,,Toronto and East York
-Green Box,"200 University Ave, Toronto, ON M5H 3C6",43.64980398,-79.38656065,M - Thur 8:00am - 8:00pm Fri 8:00am - 7:00pm,,"Sandwiches, salad bar and fine pastries",OCAD University,University Station,,Toronto and East York
+Sakura Japanese Foods,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,Mon- Sun10am - 10pm,,"Teriyaki, sushi, katsu and a wide variety of vegetarian options",York University ,York University Station,,North York 
+Qoola Frozen Yogurt Bar,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,"Mon - Fri 9am - 8pm 
+Sat - Sun - 10:30am - 7pm",,"gourmet sandwiches, salads, protein bowels, power smoothies, fresh fruit, daily soup",York University ,York University Station,416-661-6652,North York 
+Pita Land,"80 York Blvd, North York, ON, M3J 2S5",43.77278063,-79.50313865,Mon-Sun 7:30am - 12am,,Middle-Eastern favourites,York University ,York University Station,647-409-9509 or 416-859-5281,North York 
+Healthy Kitchen - Glendon,"2275 Bayview Ave, Toronto, ON M4N 3R4",43.72853484,-79.37452783,"Mon - Sat 11am - 8pm, 
+Sun 11am - 12am",,A selection of rotisserie chicken combinations,York University ,Lawrence Station,,North York 
+Manpuku,"105 McCaul St, Toronto, ON M5T 2X4",43.65369491,-79.39098624,"Mon - Fri 11:30am - 7:30pm 
+Sat 12pm - 7:30pm",,Japanese eatery with vegetarian options,OCAD University,University Station,,Toronto and East York
+Green Box,"200 University Ave, Toronto, ON M5H 3C6",43.64980398,-79.38656065,"Mon - Thur 8am - 8pm
+Fri 8am - 7pm",,"Sandwiches, salad bar and fine pastries",OCAD University,University Station,,Toronto and East York
