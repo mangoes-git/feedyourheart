@@ -3,7 +3,7 @@
     id="about-card"
     color="#FFE8D5">
     <v-card-title>
-      <span class="text-h3">About</span>
+      <h1 id="about-title">About</h1>
       <v-img
         :src="fyhLogo"
         contain
@@ -106,8 +106,12 @@ export default {
 </script>
 
 <style>
+  #about-title {
+    font-family: "AsapCondensed";
+  }
   #about-card {
     font-family: "AsapCondensed";
+    padding-top: 5%; 
     width: 600px;
   }
 </style>
