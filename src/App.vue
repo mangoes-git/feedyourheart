@@ -51,9 +51,15 @@ export default {
     About,
   },
 
-  data: () => ({
-    showAbout: false,
-  }),
+  data: function () {
+    return {
+      showAbout: true,
+    }
+  },
+
+  created: function() {
+    document.title = "Feed Your Heart Map"
+  }
 };
 </script>
 
