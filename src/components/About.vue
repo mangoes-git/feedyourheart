@@ -7,7 +7,7 @@
       <v-img
         :src="fyhLogo"
         contain
-        max-height="100"
+        max-height="150"
         >
       </v-img>
     </v-card-title>
@@ -72,6 +72,7 @@
       <v-btn
         color="#001F3F"
         text
+        outlined
         @click="closeAbout"
         >
         Close
