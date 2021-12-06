@@ -42,6 +42,20 @@
         All information will be verified before they become publicly available on the map.
       </p>
 
+      <span class="text-subtitle-1 font-weight-bold">Contact Us</span>
+      <p>
+        <b>Email</b>: 
+        <a href="mailto:aisbriseto@gmail.com">aisbriseto@gmail.com</a> <br>
+        <b>Instagram</b>:
+        <a href="https://www.instagram.com/aisbrise_to/">https://www.instagram.com/aisbrise_to/</a> <br>
+        <b>Facebook</b>:
+        <a href="https://www.facebook.com/aisbriseTO">https://www.facebook.com/aisbriseTO</a> <br>
+        <b>Twitter</b>:
+        <a href="https://twitter.com/aisbrise_to">https://twitter.com/aisbrise_to</a> <br>
+        <b>Website</b>:
+        <a href="https://www.apathyisboring.com/risetoronto">https://www.apathyisboring.com/risetoronto</a><br>
+      </p>
+
       <div id="logos">
         <v-container>
           <v-row class="justify-center">
